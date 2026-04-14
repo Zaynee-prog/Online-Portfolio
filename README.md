@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Hail Zackery Joshua D. Bongancsio]
+# Hi there! I'm Hail Zackery Joshua D. Bongancsio
 
 I'm a Computer Engineering student at the **University of Bohol** with a passion for low-level programming, game optimization, and hardware.
 
